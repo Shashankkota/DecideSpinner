@@ -23,8 +23,8 @@ Simply type your question, spin the wheel, and let fate decide — or open it up
 
 * **Frontend:** React (with TailwindCSS for styling & Framer Motion for animations)
 * **Backend:** Node.js + Express (or Firebase for serverless simplicity)
-* **Database:** MongoDB / Firebase Firestore for storing community votes
-* **Hosting:** Vercel / Netlify (frontend) + Render / Railway (backend)
+* **Database:**  Firebase 
+* **Hosting:** Vercel 
 
 ---
 
