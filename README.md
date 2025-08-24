@@ -1,3 +1,9 @@
+🎡 Decision Spinner
+
+A modern yes/no/maybe spinner web app that helps users make quick decisions in a fun way.
+Simply type your question, spin the wheel, and let fate decide — or open it up to the community for anonymous votes!
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -33,4 +39,24 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+✨ Features
+
+🎯 Quick Spin – Enter a question and instantly get a Yes / No / Maybe answer.
+
+🌍 Community Mode – Share your question with others and collect anonymous votes.
+
+📊 Results View – See how the community voted in real time.
+
+🎨 Simple & Fun UI – Minimal design with playful animations for the spinner.
+
+📱 Responsive Design – Works smoothly on desktop and mobile.
+
+🚀 Tech Stack
+
+Frontend: React (with TailwindCSS for styling & Framer Motion for animations)
+
+Backend: Node.js + Express (or Firebase for serverless simplicity)
+
+Database:  Firebase Firestore for storing community votes
+
+Hosting: Vercel 
